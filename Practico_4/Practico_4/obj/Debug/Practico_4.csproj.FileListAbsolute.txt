@@ -1,0 +1,11 @@
+C:\Users\Jonii\source\repos\Practico_4\Practico_4\bin\Debug\Practico_4.exe.config
+C:\Users\Jonii\source\repos\Practico_4\Practico_4\bin\Debug\Practico_4.exe
+C:\Users\Jonii\source\repos\Practico_4\Practico_4\bin\Debug\Practico_4.pdb
+C:\Users\Jonii\source\repos\Practico_4\Practico_4\obj\Debug\Practico_4.csproj.AssemblyReference.cache
+C:\Users\Jonii\source\repos\Practico_4\Practico_4\obj\Debug\Practico_4.Form1.resources
+C:\Users\Jonii\source\repos\Practico_4\Practico_4\obj\Debug\Practico_4.Properties.Resources.resources
+C:\Users\Jonii\source\repos\Practico_4\Practico_4\obj\Debug\Practico_4.csproj.GenerateResource.cache
+C:\Users\Jonii\source\repos\Practico_4\Practico_4\obj\Debug\Practico_4.csproj.CoreCompileInputs.cache
+C:\Users\Jonii\source\repos\Practico_4\Practico_4\obj\Debug\Practico_4.exe
+C:\Users\Jonii\source\repos\Practico_4\Practico_4\obj\Debug\Practico_4.pdb
+C:\Users\Jonii\source\repos\Practico_4\Practico_4\obj\Debug\Practico_4.exe.config
